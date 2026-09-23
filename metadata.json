@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Controle de Estoque",
+  "description": "Sistema para gerenciamento de estoque com controle de entradas, saídas, vencimentos e estoque mínimo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
